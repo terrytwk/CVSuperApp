@@ -1,0 +1,16 @@
+{
+  "name": "stuhub-server",
+  "version": "1.0.0",
+  "description": "server-side application for stuhub",
+  "main": "stuhub-server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TWK21/CVSuperApp.git"
+  },
+  "author": "CV Enterprise",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TWK21/CVSuperApp/issues"
+  },
+  "homepage": "https://github.com/TWK21/CVSuperApp#readme"
+}

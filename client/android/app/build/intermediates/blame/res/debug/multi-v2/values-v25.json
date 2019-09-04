@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/maho/projects/cv/stuhub/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v25/values-v25.xml",
+            "outputFile": "C:\\Users\\terry\\React Native\\CVSuperApp\\client\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v25\\values-v25.xml",
             "map": [
                 {
-                    "source": "/home/maho/.gradle/caches/transforms-2/files-2.1/f743811bda0b645871b278ae73dda8dd/res/values-v25/values-v25.xml",
+                    "source": "C:\\Users\\terry\\.gradle\\caches\\transforms-2\\files-2.1\\c6ee4f8a87d67d92d09b26ee6ae609d7\\res\\values-v25\\values-v25.xml",
                     "from": {
                         "startLines": "2,3,4,6",
                         "startColumns": "4,4,4,4",

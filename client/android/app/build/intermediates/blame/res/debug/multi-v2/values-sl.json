@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/maho/projects/cv/stuhub/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sl/values-sl.xml",
+            "outputFile": "C:\\Users\\terry\\React Native\\CVSuperApp\\client\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-sl\\values-sl.xml",
             "map": [
                 {
-                    "source": "/home/maho/.gradle/caches/transforms-2/files-2.1/e59177dc5d98a59da93b91a5eb16d819/res/values-sl/values-sl.xml",
+                    "source": "C:\\Users\\terry\\.gradle\\caches\\transforms-2\\files-2.1\\62b510b8af25048a4351d9566cdf9b1e\\res\\values-sl\\values-sl.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -21,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/home/maho/.gradle/caches/transforms-2/files-2.1/0f57feb38ebf382163187cf092b3a5a1/res/values-sl/values.xml",
+                    "source": "C:\\Users\\terry\\.gradle\\caches\\transforms-2\\files-2.1\\2dad8d912bd5b8efedaa30b3d0221a72\\res\\values-sl\\values.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20",
                         "startColumns": "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0",
@@ -38,7 +38,7 @@
                     }
                 },
                 {
-                    "source": "/home/maho/.gradle/caches/transforms-2/files-2.1/f743811bda0b645871b278ae73dda8dd/res/values-sl/values-sl.xml",
+                    "source": "C:\\Users\\terry\\.gradle\\caches\\transforms-2\\files-2.1\\c6ee4f8a87d67d92d09b26ee6ae609d7\\res\\values-sl\\values-sl.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -55,7 +55,7 @@
                     }
                 },
                 {
-                    "source": "/home/maho/.gradle/caches/transforms-2/files-2.1/3a57a422490cbfba66806e3182a1e212/res/values-sl/values.xml",
+                    "source": "C:\\Users\\terry\\.gradle\\caches\\transforms-2\\files-2.1\\d0055c88682e4fca46b02c9a5ae5b485\\res\\values-sl\\values.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "0",

@@ -6,7 +6,7 @@
         "start": "react-native start",
         "test": "jest",
         "ios": "react-native run-ios",
-        "android": "cd android && ./gradlew clean && cd .. && react-native run-android"
+        "android": "cd android && gradlew clean && cd .. && react-native run-android"
     },
     "dependencies": {
         "@fortawesome/react-native-fontawesome": "^0.1.0",

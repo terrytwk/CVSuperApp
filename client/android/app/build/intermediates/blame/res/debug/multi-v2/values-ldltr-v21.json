@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/maho/projects/cv/stuhub/android/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ldltr-v21/values-ldltr-v21.xml",
+            "outputFile": "C:\\Users\\terry\\React Native\\CVSuperApp\\client\\android\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ldltr-v21\\values-ldltr-v21.xml",
             "map": [
                 {
-                    "source": "/home/maho/.gradle/caches/transforms-2/files-2.1/f743811bda0b645871b278ae73dda8dd/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "source": "C:\\Users\\terry\\.gradle\\caches\\transforms-2\\files-2.1\\c6ee4f8a87d67d92d09b26ee6ae609d7\\res\\values-ldltr-v21\\values-ldltr-v21.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

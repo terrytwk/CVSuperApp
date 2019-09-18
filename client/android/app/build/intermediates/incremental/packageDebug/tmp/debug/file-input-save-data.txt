@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Wed Sep 04 08:35:08 PDT 2019
+#Mon Sep 16 08:27:14 PDT 2019
 56.path=lib/x86/libglog.so
 5.base=C\:\\Users\\terry\\React Native\\CVSuperApp\\client\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0
 42.base=C\:\\Users\\terry\\React Native\\CVSuperApp\\client\\android\\app\\build\\intermediates\\transforms\\mergeJniLibs\\debug\\0

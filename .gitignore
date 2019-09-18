@@ -1,2 +1,4 @@
 /client/node_modules/
 /server/node_modules/
+/client/android/local.properties
+/client/android/app/my-upload-key.keystore

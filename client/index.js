@@ -5,7 +5,7 @@ import { createMaterialTopTabNavigator, createSwitchNavigator, createStackNaviga
 
 import Login from './app/Login';
 import Map from './app/Map';
-import ID from './app/ID';
+import ID from './app/Schedule';
 
 import TabBar from './app/TabBar'
 
@@ -43,7 +43,8 @@ const AppContainer = createAppContainer(createSwitchNavigator(
         Auth: Login
     },
     {
-        initialRouteName: 'Auth',
+        // initialRouteName: 'Auth',
+        initialRouteName: 'Main',
     }
 ));
 
